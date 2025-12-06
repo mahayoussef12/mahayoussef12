@@ -32,7 +32,7 @@ Familiar with Agile Scrum, CI/CD, anomaly lifecycle, and test management tools.
 ![Squash TM](https://img.shields.io/badge/Squash_TM-Used-success?style=for-the-badge)
 
 ### Automation Testing
-![Selenium](https://img.shields.io/badge/Selenium_WebDriver-Expert-43b02a?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium_WebDriver-Advanced-43b02a?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber_(BDD)-Advanced-23d96c?style=for-the-badge&logo=cucumber&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-Advanced-25a162?style=for-the-badge&logo=junit5)
 ![TestNG](https://img.shields.io/badge/TestNG-Advanced-ff6600?style=for-the-badge)
@@ -45,7 +45,7 @@ Familiar with Agile Scrum, CI/CD, anomaly lifecycle, and test management tools.
 
 ### Dev & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Experienced-6db33f?style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-Experienced-dd0031?style=for-the-badge&logo=angular)
+![Angular](https://img.shields.io/badge/Angular-Intermediate-dd0031?style=for-the-badge&logo=angular)
 ![Java](https://img.shields.io/badge/Java-Advanced-e34f26?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL/MySQL/PostgreSQL-Experienced-blue?style=for-the-badge)
 
