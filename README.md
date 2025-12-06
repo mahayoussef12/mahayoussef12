@@ -7,6 +7,7 @@
 Software Tester | API Testing | Selenium | Cucumber | ISTQB
 
 [![English](https://img.shields.io/badge/🌍_English-blue?style=for-the-badge)](#-english-version)
+[![Français](https://img.shields.io/badge/🇫🇷_Lire_en_Français-blue?style=for-the-badge)](#-version-française)
 
 </div>
 
