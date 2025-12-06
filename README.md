@@ -7,7 +7,7 @@
 Software Tester | API Testing | Selenium | Cucumber | ISTQB
 
 [![English](https://img.shields.io/badge/🌍_English-blue?style=for-the-badge)](#-english-version)
-[![Français](https://img.shields.io/badge/🇫🇷_Lire_en_Français-blue?style=for-the-badge)](#-version-française)
+[![Français](https://img.shields.io/badge/🇫🇷_Lire_en_Français-blue?style=for-the-badge)](#version-francaise)
 
 </div>
 
@@ -70,6 +70,7 @@ LinkedIn: https://www.linkedin.com/in/maha-youssef
 GitHub: https://github.com/mahayoussef12  
 
 ---
+
 ## 💼 Experience
 
 ### <img src="https://img.shields.io/badge/ITGate-000000?style=for-the-badge&logo=building&logoColor=white" />  
@@ -120,21 +121,8 @@ GitHub: https://github.com/mahayoussef12
 
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="220" alt="Developer GIF"/>
-
-# Bonjour, je suis **Maha Youssef**
-**Ingénieure QA – Tests Manuels & Automatisation**  
-Tests Fonctionnels | Tests API | Selenium | Cucumber | ISTQB
-
-[![Français](https://img.shields.io/badge/🇫🇷_Version_Française-blue?style=for-the-badge)](#-version-française)
-
-</div>
-
----
-
-## 🇫🇷 Version Française
+<details>
+<summary>🇫🇷 Version Française</summary>
 
 ### À propos
 Ingénieure QA spécialisée dans les **tests manuels**, l’**automatisation des tests**, et les **tests API**.  
@@ -239,6 +227,4 @@ GitHub : https://github.com/mahayoussef12
 - Déploiement via Docker  
 - Documentation technique & participation aux cérémonies Agile  
 
----
-
-
+</details>
