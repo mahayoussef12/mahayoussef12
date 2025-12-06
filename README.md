@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Maha – QA Engineer" width="220"/>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="220" alt="Developer GIF"/>
 
 # Hi, I'm **Maha Youssef**
 **QA Engineer – Manual & Automation Testing**  
