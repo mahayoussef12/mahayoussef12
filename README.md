@@ -71,56 +71,6 @@ GitHub: https://github.com/mahayoussef12
 
 ---
 
-## 💼 Experience
-
-### <img src="https://img.shields.io/badge/ITGate-000000?style=for-the-badge&logo=building&logoColor=white" />  
-**QA Engineer – Manual & Automation | Nov 2025**  
-- Requirements analysis & functional testing  
-- Test case design, execution & reporting  
-- Defect tracking (Minor, Major, Blocker)  
-- Selenium WebDriver automation (Java)  
-- JUnit / TestNG automation execution  
-- JMeter performance testing  
-- CI/CD pipelines with Jenkins  
-- Collaboration with developers for bug reproduction  
-
----
-
-### <img src="https://img.shields.io/badge/JobGate-005f99?style=for-the-badge&logo=briefcase&logoColor=white" />  
-**QA Engineer – Manual & Automation | May 2025 – Oct 2025**  
-- Agile Scrum (Backlog, Sprints, Daily Meetings)  
-- Test case design (Zephyr, Xray, TestLink, Squash TM)  
-- Manual test execution & defect validation  
-- Selenium WebDriver automation  
-- Cucumber BDD (Gherkin) scenarios  
-- API & performance testing (Postman, Swagger, JMeter)  
-- Test reports & KPI dashboards  
-
----
-
-### <img src="https://img.shields.io/badge/TechNo_IT-333333?style=for-the-badge&logo=code&logoColor=white" />  
-**Java / Spring Boot Developer (Freelance) | Dec 2024 – Jun 2025**  
-- Backend feature development  
-- Bug fixing & debugging  
-- API testing, unit testing & integration testing  
-- Functional validation of new features  
-- Code reviews & best practices  
-- Technical documentation  
-
----
-
-### <img src="https://img.shields.io/badge/UPTECH-AA0000?style=for-the-badge&logo=layers&logoColor=white" />  
-**Spring Boot / Angular Developer | Feb 2024 – Aug 2024**  
-- Microservices architecture design & deployment  
-- Business module development  
-- Secured REST APIs with Keycloak  
-- API, unit & integration testing  
-- Manual functional testing  
-- Docker containerization  
-- Technical documentation & Agile participation  
-
----
-
 <details>
 <summary>🇫🇷 Version Française</summary>
 
@@ -178,53 +128,5 @@ Email : youssefmaha299@gmail.com
 LinkedIn : https://www.linkedin.com/in/maha-youssef  
 GitHub : https://github.com/mahayoussef12  
 
----
-
-## 💼 Expérience
-
-### <img src="https://img.shields.io/badge/ITGate-000000?style=for-the-badge&logo=building&logoColor=white" />  
-**Ingénieure QA – Tests Manuels & Automatisation | Nov 2025**  
-- Analyse des besoins & tests fonctionnels  
-- Rédaction, exécution et reporting des cas de test  
-- Gestion des anomalies (Mineur, Majeur, Bloquant)  
-- Automatisation Selenium WebDriver (Java)  
-- Exécution automatisée avec JUnit / TestNG  
-- Tests de performance via JMeter  
-- Pipelines CI/CD avec Jenkins  
-- Collaboration avec les développeurs pour la reproduction des bugs  
-
----
-
-### <img src="https://img.shields.io/badge/JobGate-005f99?style=for-the-badge&logo=briefcase&logoColor=white" />  
-**Ingénieure QA – Tests Manuels & Automatisation | Mai 2025 – Oct 2025**  
-- Projet Agile Scrum (Backlog, Sprints, Daily Meetings)  
-- Création de cas de test (Zephyr, Xray, TestLink, Squash TM)  
-- Exécution des tests et validation des anomalies  
-- Automatisation Selenium WebDriver  
-- Scénarios BDD avec Gherkin (Cucumber)  
-- Tests API & performance (Postman, Swagger, JMeter)  
-- Rapports de tests & KPI QA  
-
----
-
-### <img src="https://img.shields.io/badge/TechNo_IT-333333?style=for-the-badge&logo=code&logoColor=white" />  
-**Développeuse Java / Spring Boot (Freelance) | Déc 2024 – Juin 2025**  
-- Développement backend & nouvelles fonctionnalités  
-- Correction de bugs & optimisation  
-- Tests API, tests unitaires & intégration  
-- Validation fonctionnelle des nouvelles fonctionnalités  
-- Revue de code & bonnes pratiques  
-- Documentation technique  
-
----
-
-### <img src="https://img.shields.io/badge/UPTECH-AA0000?style=for-the-badge&logo=layers&logoColor=white" />  
-**Développeuse Spring Boot / Angular | Fév 2024 – Août 2024**  
-- Conception & déploiement d’architectures microservices  
-- Développement de modules métier  
-- Création & sécurisation d’APIs REST avec Keycloak  
-- Tests API, unitaires et fonctionnels  
-- Déploiement via Docker  
-- Documentation technique & participation aux cérémonies Agile  
 
 </details>
