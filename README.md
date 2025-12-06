@@ -7,7 +7,6 @@
 Software Tester | API Testing | Selenium | Cucumber | ISTQB
 
 [![English](https://img.shields.io/badge/🌍_English-blue?style=for-the-badge)](#-english-version)
-[![Français](https://img.shields.io/badge/🇫🇷_Lire_en_Français-blue?style=for-the-badge)](#)
 
 </div>
 
@@ -64,64 +63,63 @@ Familiar with Agile Scrum, CI/CD, anomaly lifecycle, and test management tools.
 
 ---
 
-## Projects
-
-### **Automation – SauceDemo / SwagLabs**
-Full automation suite for login, cart, checkout & logout.  
-Tech: Selenium WebDriver, Java, Cucumber, TestNG, Jenkins.
-
-### **E-commerce Testing Platform**
-- Manual & automated test plans  
-- Automated scripts using Selenium + Cucumber  
-- Bug tracking using Jira  
-
-### **E-learning Platform**
-- Test cases (manual + API + performance)  
-- Automation of critical workflows  
-- Postman, Xray, JMeter, Selenium  
-
-### **SMS Marketing Platform**
-- Backend development  
-- Twilio API integration  
-- CI/CD with Jenkins  
-
-### **Auto-École Web App**
-- Full-stack development (Spring Boot + Angular)  
-- Unit & functional testing with JUnit  
-
----
-
 ## Contact
 Email: youssefmaha299@gmail.com  
 LinkedIn: https://www.linkedin.com/in/maha-youssef  
 GitHub: https://github.com/mahayoussef12  
 
 ---
+## 💼 Experience
 
-<details>
-<summary>🇫🇷 <b>Lire la version française</b></summary>
+---
 
-<br>
+### <img src="https://img.shields.io/badge/ITGate-000000?style=for-the-badge&logo=building&logoColor=white" />  
+**QA Engineer – Manual & Automation | Nov 2025**  
+- Requirements analysis & functional testing  
+- Test case design, execution & reporting  
+- Defect tracking (Minor, Major, Blocker)  
+- Selenium WebDriver automation (Java)  
+- JUnit / TestNG automation execution  
+- JMeter performance testing  
+- CI/CD pipelines with Jenkins  
+- Collaboration with developers for bug reproduction  
 
-# Bonjour, je suis **Maha Youssef**
+---
 
-Ingénieure QA spécialisée dans les **tests manuels**, l’**automatisation**, les **tests API** et la gestion des anomalies.  
-Expériences solides avec **Selenium, Cucumber, JUnit, TestNG**, ainsi que Postman, Swagger et JMeter.  
-Connaissances en développement (Spring Boot, Angular) facilitant l’analyse et la validation fonctionnelle.
+### <img src="https://img.shields.io/badge/JobGate-005f99?style=for-the-badge&logo=briefcase&logoColor=white" />  
+**QA Engineer – Manual & Automation | May 2025 – Oct 2025**  
+- Agile Scrum (Backlog, Sprints, Daily Meetings)  
+- Test case design (Zephyr, Xray, TestLink, Squash TM)  
+- Manual test execution & defect validation  
+- Selenium WebDriver automation  
+- Cucumber BDD (Gherkin) scenarios  
+- API & performance testing (Postman, Swagger, JMeter)  
+- Test reports & KPI dashboards  
 
-## Compétences
-- **Tests manuels :** Zephyr, TestLink, Xray, Squash TM  
-- **Automatisation :** Selenium WebDriver, Cucumber (BDD), Java, JUnit, TestNG  
-- **API / Performance :** Postman, Swagger, JMeter  
-- **CI/CD :** Jenkins, Docker  
-- **Développement :** Spring Boot, Angular, Java, MySQL, PostgreSQL, MongoDB  
-- **Gestion :** Git, GitLab, GitHub, Jira  
+---
 
-## Expériences (Résumé)
-- **ITGate (QA Manuel/Automation)** – Analyse, cas de test, campagnes, anomalies, automatisation, CI/CD  
-- **JobGate (QA Manuel/Automation)** – Agile Scrum, cas de test, automatisation Selenium/Cucumber  
-- **TechNo IT (Dev Java/Spring Boot)** – Dév, correction, tests API et unitaires  
-- **UPTECH (Spring Boot/Angular)** – Microservices, APIs sécurisées, tests, Docker, documentation  
+### <img src="https://img.shields.io/badge/TechNo_IT-333333?style=for-the-badge&logo=code&logoColor=white" />  
+**Java / Spring Boot Developer (Freelance) | Dec 2024 – Jun 2025**  
+- Backend feature development  
+- Bug fixing & debugging  
+- API testing, unit testing & integration testing  
+- Functional validation of new features  
+- Code reviews & best practices  
+- Technical documentation  
 
-</details>
+---
+
+### <img src="https://img.shields.io/badge/UPTECH-AA0000?style=for-the-badge&logo=layers&logoColor=white" />  
+**Spring Boot / Angular Developer | Feb 2024 – Aug 2024**  
+- Microservices architecture design & deployment  
+- Business module development  
+- Secured REST APIs with Keycloak  
+- API, unit & integration testing  
+- Manual functional testing  
+- Docker containerization  
+- Technical documentation & Agile participation  
+
+---
+
+
 
