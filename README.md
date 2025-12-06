@@ -71,8 +71,6 @@ GitHub: https://github.com/mahayoussef12
 ---
 ## 💼 Experience
 
----
-
 ### <img src="https://img.shields.io/badge/ITGate-000000?style=for-the-badge&logo=building&logoColor=white" />  
 **QA Engineer – Manual & Automation | Nov 2025**  
 - Requirements analysis & functional testing  
